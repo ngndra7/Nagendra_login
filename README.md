@@ -1,2 +1,1 @@
-hello testing
-tomcat test
+testing
